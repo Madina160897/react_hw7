@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(186, 242, 216);
+}
+
+header{
+  padding: 1%;
+  margin: 0 auto;
+  font-size: 30px;
+  width: 400px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.df{
+  display: flex;
+}
+
+.jc-sa{
+  justify-content: space-around;
+}
+
+.jc-c{
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30%;
+  width: 700px;
+}
